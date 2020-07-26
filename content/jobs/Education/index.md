@@ -1,10 +1,10 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - Dec 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2019-11-12'
+title: 'Business Administration'
+company: 'University of Macedonia'
+location: 'Thessaloniki, GR'
+range: 'Sep 2013 - Jul 2019'
+url: 'https://uom.gr'
 ---
 
 - Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
