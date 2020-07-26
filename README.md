@@ -5,7 +5,7 @@
   zacharisharris.com
 </h1>
 <p align="center">
-  My developer portfolio template, designed by <a href="https://brittanychiang.com" target="_blank">Brittany Chiang</a>,built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify .</a>
+  My developer portfolio template, designed by <a href="https://brittanychiang.com" target="_blank">Brittany Chiang</a>, built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify.</a>
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/stoic-poitras-b06d92/deploys" target="_blank">
