@@ -1,18 +1,18 @@
 module.exports = {
   siteTitle: 'Harris Zacharis | Software Engineer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Larissa, GR who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Harris Zacharis is a software engineer based in Larissa, GR who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Harris Zacharis, Harris, Zacharis, zacharisharris, software engineer, front-end engineer, ios developer, c#, university of macedonia, uom',
+  siteUrl: 'https://zacharisharris.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  googleAnalyticsID: '',
+  googleVerification: '',
+  name: 'Harris Zacharis',
+  location: 'Larissa, GR',
+  email: 'zacharisharris@gmail.com',
+  github: 'https://github.com/zacharisharris',
+  twitterHandle: '@zacharisharris',
   socialMedia: [
     {
       name: 'GitHub',
@@ -21,10 +21,6 @@ module.exports = {
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/zacharisharris',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
     },
     {
       name: 'Instagram',
